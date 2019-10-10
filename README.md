@@ -5,7 +5,7 @@ test proyect
  <head>
    <title> Inventario </title>
    <boby>
-   <h1> PRESTASOFT </h1>
+   <h2> PRESTASOFT </h2>
    <p> inventario y control para los bienes del C.T.G.I </p>
    </boby>
   </head>
