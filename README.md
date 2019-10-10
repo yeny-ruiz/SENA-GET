@@ -7,7 +7,7 @@ test proyect
    <boby>
    <h2> PRESTASOFT </h2>
    <p> inventario y control para los bienes del C.T.G.I </p>
-    <p>hola martha </p>
+    <p> hola yeny</p>
    </boby>
   </head>
   </html>
